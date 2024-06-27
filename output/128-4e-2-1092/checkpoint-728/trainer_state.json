@@ -1,0 +1,100 @@
+{
+  "best_metric": null,
+  "best_model_checkpoint": null,
+  "epoch": 4.016551724137931,
+  "global_step": 728,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 0.28,
+      "learning_rate": 0.03816849816849817,
+      "loss": 0.4539,
+      "step": 50
+    },
+    {
+      "epoch": 0.55,
+      "learning_rate": 0.03633699633699634,
+      "loss": 0.2622,
+      "step": 100
+    },
+    {
+      "epoch": 0.83,
+      "learning_rate": 0.034505494505494505,
+      "loss": 0.2543,
+      "step": 150
+    },
+    {
+      "epoch": 1.1,
+      "learning_rate": 0.03267399267399267,
+      "loss": 0.2374,
+      "step": 200
+    },
+    {
+      "epoch": 1.38,
+      "learning_rate": 0.030842490842490845,
+      "loss": 0.228,
+      "step": 250
+    },
+    {
+      "epoch": 1.66,
+      "learning_rate": 0.02901098901098901,
+      "loss": 0.1988,
+      "step": 300
+    },
+    {
+      "epoch": 1.93,
+      "learning_rate": 0.02717948717948718,
+      "loss": 0.2245,
+      "step": 350
+    },
+    {
+      "epoch": 2.21,
+      "learning_rate": 0.02534798534798535,
+      "loss": 0.1907,
+      "step": 400
+    },
+    {
+      "epoch": 2.48,
+      "learning_rate": 0.023516483516483517,
+      "loss": 0.1872,
+      "step": 450
+    },
+    {
+      "epoch": 2.76,
+      "learning_rate": 0.021684981684981685,
+      "loss": 0.2002,
+      "step": 500
+    },
+    {
+      "epoch": 3.03,
+      "learning_rate": 0.019853479853479853,
+      "loss": 0.204,
+      "step": 550
+    },
+    {
+      "epoch": 3.31,
+      "learning_rate": 0.01802197802197802,
+      "loss": 0.1737,
+      "step": 600
+    },
+    {
+      "epoch": 3.59,
+      "learning_rate": 0.016190476190476193,
+      "loss": 0.1898,
+      "step": 650
+    },
+    {
+      "epoch": 3.86,
+      "learning_rate": 0.014358974358974359,
+      "loss": 0.1718,
+      "step": 700
+    }
+  ],
+  "max_steps": 1092,
+  "num_train_epochs": 7,
+  "total_flos": 4.3697076296902246e+17,
+  "trial_name": null,
+  "trial_params": null
+}
